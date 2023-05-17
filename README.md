@@ -1,2 +1,1 @@
-# malasid.github.io
-Demo Script dan File
+Selamat datang di Malas Media Git
