@@ -9,7 +9,7 @@ Proyek Website Teknologi Indonesia bertujuan untuk menyajikan informasi terkini 
 3. Notifikasi Terkustomisasi: Pengguna dapat mengatur preferensi notifikasi mereka sesuai minat dan kebutuhan. Mereka dapat menerima pembaruan berita terkini, artikel terbaru, dan informasi penting lainnya melalui email atau pemberitahuan di website.
 
 ## Panduan Penggunaan
-Untuk menggunakan proyek ini, Anda hanya perlu mengunjungi website kami di [https://malas.id]. Di sana, Anda dapat menjelajahi berbagai fitur yang tersedia, membaca berita terbaru, mengakses artikel dan tutorial, serta berpartisipasi dalam forum diskusi. Pastikan Anda memiliki koneksi internet yang stabil dan menggunakan peramban web terbaru untuk mendapatkan pengalaman terbaik.
+Untuk menggunakan proyek ini, Anda hanya perlu mengunjungi website kami di https://malas.id. Di sana, Anda dapat menjelajahi berbagai fitur yang tersedia, membaca berita terbaru, mengakses artikel dan tutorial, serta berpartisipasi dalam forum diskusi. Pastikan Anda memiliki koneksi internet yang stabil dan menggunakan peramban web terbaru untuk mendapatkan pengalaman terbaik.
 
 ## Kontak
-Jika Anda memiliki pertanyaan, saran, atau masukan terkait proyek ini, jangan ragu untuk menghubungi kami melalui email di [kontak@malas.id]. Kami akan dengan senang hat
+Jika Anda memiliki pertanyaan, saran, atau masukan terkait proyek ini, jangan ragu untuk menghubungi kami melalui email di kontak@malas.id. Kami akan dengan senang hat
