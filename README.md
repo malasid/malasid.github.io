@@ -1,7 +1,7 @@
 # Project Malas Media
 
 ## Deskripsi Proyek
-Proyek Website Teknologi Indonesia bertujuan untuk menyajikan informasi terkini mengenai perkembangan teknologi di Indonesia. Website ini merupakan platform yang dirancang untuk menghubungkan komunitas teknologi Indonesia dengan berbagai berita terkini, artikel, dan sumber daya yang relevan. Dengan tampilan yang responsif dan intuitif, pengguna dapat dengan mudah menjelajahi konten yang disajikan dengan nyaman dari perangkat apa pun. Proyek ini dibangun dengan menggunakan teknologi modern dan terkini, sehingga memberikan pengalaman pengguna yang maksimal.
+Proyek Malas Media bertujuan untuk menyajikan informasi terkini mengenai perkembangan teknologi di Indonesia. Website ini merupakan platform yang dirancang untuk menghubungkan komunitas teknologi Indonesia dengan berbagai berita terkini, artikel, dan sumber daya yang relevan. Dengan tampilan yang responsif dan intuitif, pengguna dapat dengan mudah menjelajahi konten yang disajikan dengan nyaman dari perangkat apa pun. Proyek ini dibangun dengan menggunakan teknologi modern dan terkini, sehingga memberikan pengalaman pengguna yang maksimal.
 
 ## Fitur Utama
 1. Berita Terkini: Website ini menyajikan berita teknologi terbaru dari Indonesia. Pengguna dapat mengakses informasi terkini tentang inovasi, perkembangan startup, tren teknologi, dan acara terkait teknologi di Indonesia.
